@@ -1,5 +1,5 @@
 main{
-    height: 170rem;
+    height: 140rem;
     width: 100%;
     background-color: white;
 }
@@ -8,6 +8,7 @@ main{
     width: 100%;
     padding: 2% 15% 2% 15%;
 }
+
 .presentacion{
     position: relative;
     text-align: justify;
@@ -41,10 +42,7 @@ main{
 }
 #sistema{
    text-align: center;
-   
-    
-  
-    
+   padding-bottom: 10%;
 }
 
 
