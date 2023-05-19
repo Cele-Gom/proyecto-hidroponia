@@ -69,7 +69,12 @@ section img:hover{
     text-align: center;
     width: 100%;
     padding: 5% 3%
-    
+}
+#plantas:hover{
+    transform: scale3d(1.01,1.01,1);
+    background: linear-gradient(180deg, rgba(246,245,249,0.804359243697479) 0%, rgb(92, 167, 92) 100%); 
+
+
 }
 .formContainer{
     position: absolute;
