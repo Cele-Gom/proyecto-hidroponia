@@ -1,4 +1,4 @@
-#Gridsales{
+#Gsales>div{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
@@ -6,31 +6,31 @@
 
 }
  
-#Gridsales>div{
+#Gsales>div>div{
     border: solid rgb(14, 173, 236);
     background-color: rgb(237, 246, 243);
     border-radius: 2%;
 }
-#Gridsales>div>div>img{
+#Gsales>div>div>div>img{
     height: 30vh;
     
 }
-#Gridsales>div>h3{
+#Gsales>div>div>h3{
     text-align: center;
 }
 
-#Gridsales>div>div>p{
+#Gsales>div>div>p{
     text-align: center;
     font-size:4vh;
     
 }
-#Gridsales>div>div{
+#Gsales>div>div{
     display: flex;
     flex-direction: column;
     align-items: center;
    }
 
-#Gridsales>div:hover{
+#Gsales>div>div:hover{
     transform: scale(1.3);
 }
 
